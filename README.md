@@ -9,4 +9,5 @@ the book was made in latex using the song package, it features 4 sections: praye
 - inside a song use the verse environment for verses and chorus environment for the chorus
 - chords are attached to the character right after them
 - to use normal latex syntax inside the songs environment, for example to add images or spacings use the intersong environment
+- to mark the songs for the index pass the index as an argument when beginning the songs environment
 - songs package documentation: https://songs.sourceforge.net/songsdoc/songs.html
